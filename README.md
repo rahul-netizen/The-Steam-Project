@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rahul-netizen/The-Steam-Project/HEAD?labpath=viola/render/steam_analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rahul-netizen/The-Steam-Project/HEAD?labpath=steam_analysis.ipynb)
 
 You can run and experiment with the code using free online resources, try executing this notebook by click the "launch" button above.  
 
