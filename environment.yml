@@ -1,0 +1,47 @@
+name: ds
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip:
+    - beautifulsoup4==4.10.0
+    - black==22.3.0
+    - blis==0.7.7
+    - catalogue==2.0.7
+    - certifi==2021.10.8
+    - charset-normalizer==2.0.10
+    - click==8.0.4
+    - cycler==0.11.0
+    - cymem==2.0.6
+    - en-core-web-md==3.2.0
+    - et-xmlfile==1.1.0
+    - fonttools==4.33.0
+    - kiwisolver==1.4.2
+    - langcodes==3.3.0
+    - lightgbm==3.3.2
+    - matplotlib==3.5.2
+    - murmurhash==1.0.6
+    - mypy-extensions==0.4.3
+    - mysql-connector-python==8.0.28
+    - nltk==3.7
+    - numpy==1.23.1
+    - openpyxl==3.0.10
+    - pandas==1.4.3
+    - pathspec==0.9.0
+    - pathy==0.6.1
+    - pillow==9.1.0
+    - platformdirs==2.5.2
+    - plotly==5.9.0
+    - preshed==3.0.6
+    - protobuf==3.19.4
+    - pydantic==1.8.2
+    - python-graphviz==0.20
+    - regex==2022.3.15
+    - requests==2.27.1
+    - scikit-learn==1.1.1
+    - scipy==1.8.0
+    - seaborn==0.11.2
+    - smart-open==5.2.1
+    - soupsieve==2.3.1
+    - spacy==3.2.4
+
