@@ -1,8 +1,8 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rahul-netizen/The-Steam-Project/HEAD?labpath=steam_analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rahul-netizen/The-Steam-Project/HEAD)
 
 You can run and experiment with the code using free online resources, try executing this notebook by click the "launch" button above.  
 
-Or by going to this [link](https://mybinder.org/v2/gh/rahul-netizen/The-Steam-Project/HEAD?labpath=steam_analysis.ipynb)
+Or by going to this [link](https://mybinder.org/v2/gh/rahul-netizen/The-Steam-Project/HEAD)
 
 ![title](https://www.nme.com/wp-content/uploads/2021/09/Valve-Steam-key-art.jpg)
 
